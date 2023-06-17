@@ -1,5 +1,7 @@
 # Activity
 
+Added CSS for header
+
 Oscar Mockup
 
 This is the website for Oscar, as of [December 2020.](https://www.hioscar.com/)
